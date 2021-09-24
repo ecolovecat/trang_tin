@@ -1,0 +1,7 @@
+#menu__dropmenu {
+    display: none;
+}
+
+div#menu>ul {
+    display: inline;
+}
